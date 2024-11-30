@@ -1,0 +1,10 @@
+C:\Users\ICBC\source\repos\trabajoPractico3\trabajoPractico3\bin\Debug\trabajoPractico3.exe.config
+C:\Users\ICBC\source\repos\trabajoPractico3\trabajoPractico3\bin\Debug\trabajoPractico3.exe
+C:\Users\ICBC\source\repos\trabajoPractico3\trabajoPractico3\bin\Debug\trabajoPractico3.pdb
+C:\Users\ICBC\source\repos\trabajoPractico3\trabajoPractico3\obj\Debug\trabajoPractico3.csproj.AssemblyReference.cache
+C:\Users\ICBC\source\repos\trabajoPractico3\trabajoPractico3\obj\Debug\trabajoPractico3.frmCocodrilo.resources
+C:\Users\ICBC\source\repos\trabajoPractico3\trabajoPractico3\obj\Debug\trabajoPractico3.Properties.Resources.resources
+C:\Users\ICBC\source\repos\trabajoPractico3\trabajoPractico3\obj\Debug\trabajoPractico3.csproj.GenerateResource.cache
+C:\Users\ICBC\source\repos\trabajoPractico3\trabajoPractico3\obj\Debug\trabajoPractico3.csproj.CoreCompileInputs.cache
+C:\Users\ICBC\source\repos\trabajoPractico3\trabajoPractico3\obj\Debug\trabajoPractico3.exe
+C:\Users\ICBC\source\repos\trabajoPractico3\trabajoPractico3\obj\Debug\trabajoPractico3.pdb
